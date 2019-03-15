@@ -1,0 +1,17 @@
+● src
++---● app
+|   +--● resource-details
+|   |  |--resource-details.component.ts|.html|.css
+|   |  +--● resource-detail
+|   |  |  |--resource-detail.component.ts|.html|.css
+|   |  |
+|   |  +--● resource-detail-list
+|   |  |  |--resource-detail-list.component.ts|.html|.css
+|   |  |
+|   |  +--● shared
+|   |     |--resource-detail.service.ts
+|   |     |--resource-detail.model.ts
+|   |
+|   |--app.module.ts
+|
+|--index.html (cdn path for bootstrap & fa icons)

@@ -1,0 +1,39 @@
+<form #form="ngForm" autocomplete="off" (submit)="onSubmit(form)">
+    <input type="hidden" name="ResId" [value]="service.formData.ResID">
+    <div class="form-group">
+        <div class="input-group">
+          <div class="input-group-prepend">
+            <div class="input-group-text bg-white">
+              <i class="fas fa-user-circle" [class.green-icon]="ResouceName.valid" [class.red-icon]="ResouceName.invalid && ResouceName.touched"></i>
+            </div>
+          </div>
+          <input name="ResouceName" #ResouceName="ngModel" [(ngModel)]="service.formData.ResouceName" class="form-control"
+            placeholder="Resource Name" required>
+        </div>
+    </div>
+    <div class="form-group">
+        <div class="input-group">
+          <div class="input-group-prepend">
+            <div class="input-group-text bg-white">
+              <i class="fas fa-link"  [class.green-icon]="ResURL.valid" [class.red-icon]="ResURL.invalid && ResURL.touched"></i>
+            </div>
+          </div>
+          <input name="ResURL" #ResURL="ngModel" [(ngModel)]="service.formData.ResURL" 
+          class="form-control" placeholder="Resource URL" required >
+        </div>
+    </div>
+    <div class="form-group">
+        <div class="input-group">
+          <div class="input-group-prepend">
+            <div class="input-group-text bg-white">
+              <i class="fas fa-calendar-alt"  [class.green-icon]="CreatedDate.valid" [class.red-icon]="CreatedDate.invalid && CreatedDate.touched"></i>
+            </div>
+          </div>
+          <input name="CreatedDate" #CreatedDate="ngModel" [(ngModel)]="service.formData.CreatedDate" 
+          class="form-control" placeholder="Created Date" required>
+        </div>
+    </div>
+    <div class="form-group">
+        <button class="btn btn-success btn-lg btn-block" type="submit" [disabled]="form.invalid"><i class="fas fa-database"></i> Submit</button>
+      </div>
+</form>

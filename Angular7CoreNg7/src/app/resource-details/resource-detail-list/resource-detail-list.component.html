@@ -1,0 +1,13 @@
+<table class="table table-hover">
+    <tr *ngFor="let rd of service.list">
+      <!-- <td (click)="populateForm(rd)">{{rd.ResouceName}}</td>
+      <td (click)="populateForm(rd)">{{rd.ResURL}}</td>
+      <td (click)="populateForm(rd)">{{rd.CreatedDate}}</td>
+      <td>
+        <i class="far fa-trash-alt fa-lg text-danger" (click)="onDelete(rd.ResID)"></i>
+      </td> -->
+      <td>{{rd.ResouceName}}</td>
+      <td>{{rd.ResURL}}</td>
+      <td>{{rd.CreatedDate}}</td>
+    </tr>
+  </table>

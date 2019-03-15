@@ -1,0 +1,14 @@
+D:\Sourcecodes\VS2017\WebApiCoreNg7\WebApiCoreNg7\bin\Debug\netcoreapp2.2\WebApiCoreNg7.deps.json
+D:\Sourcecodes\VS2017\WebApiCoreNg7\WebApiCoreNg7\bin\Debug\netcoreapp2.2\WebApiCoreNg7.runtimeconfig.json
+D:\Sourcecodes\VS2017\WebApiCoreNg7\WebApiCoreNg7\bin\Debug\netcoreapp2.2\WebApiCoreNg7.runtimeconfig.dev.json
+D:\Sourcecodes\VS2017\WebApiCoreNg7\WebApiCoreNg7\bin\Debug\netcoreapp2.2\WebApiCoreNg7.dll
+D:\Sourcecodes\VS2017\WebApiCoreNg7\WebApiCoreNg7\obj\Debug\netcoreapp2.2\WebApiCoreNg7.csprojAssemblyReference.cache
+D:\Sourcecodes\VS2017\WebApiCoreNg7\WebApiCoreNg7\obj\Debug\netcoreapp2.2\WebApiCoreNg7.csproj.CoreCompileInputs.cache
+D:\Sourcecodes\VS2017\WebApiCoreNg7\WebApiCoreNg7\obj\Debug\netcoreapp2.2\WebApiCoreNg7.RazorAssemblyInfo.cache
+D:\Sourcecodes\VS2017\WebApiCoreNg7\WebApiCoreNg7\obj\Debug\netcoreapp2.2\WebApiCoreNg7.RazorAssemblyInfo.cs
+D:\Sourcecodes\VS2017\WebApiCoreNg7\WebApiCoreNg7\obj\Debug\netcoreapp2.2\WebApiCoreNg7.AssemblyInfoInputs.cache
+D:\Sourcecodes\VS2017\WebApiCoreNg7\WebApiCoreNg7\obj\Debug\netcoreapp2.2\WebApiCoreNg7.AssemblyInfo.cs
+D:\Sourcecodes\VS2017\WebApiCoreNg7\WebApiCoreNg7\obj\Debug\netcoreapp2.2\WebApiCoreNg7.RazorTargetAssemblyInfo.cache
+D:\Sourcecodes\VS2017\WebApiCoreNg7\WebApiCoreNg7\bin\Debug\netcoreapp2.2\WebApiCoreNg7.pdb
+D:\Sourcecodes\VS2017\WebApiCoreNg7\WebApiCoreNg7\obj\Debug\netcoreapp2.2\WebApiCoreNg7.dll
+D:\Sourcecodes\VS2017\WebApiCoreNg7\WebApiCoreNg7\obj\Debug\netcoreapp2.2\WebApiCoreNg7.pdb
